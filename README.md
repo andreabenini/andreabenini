@@ -1,7 +1,8 @@
-## Hi there 👋
-
+---
 <!--
 **andreabenini/andreabenini** is a ✨ _special_ ✨ repository because it appears on the GitHub profile.
+
+## Hi there 👋
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
